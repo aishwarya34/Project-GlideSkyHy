@@ -22,5 +22,5 @@
 <figure>
 <div align="center">
 <img src='https://github.com/aishwarya34/Project-GlideSkyHy/blob/main/FilghtHistory_MultipleFlightPaths.png' /><br>
-<figcaption>Figure 3: Selecting Multiple Flights from View History to display on the Google Maps. </figcaption></div>
+<figcaption>Figure 1: Selecting Multiple Flights from View History to display on the Google Maps. </figcaption></div>
 </figure>
