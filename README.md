@@ -25,12 +25,15 @@
 </figure>
 
 
+<br>
 
 <figure>
 <div align="center">
 <img src='https://github.com/aishwarya34/Project-GlideSkyHy/blob/main/Map_Flight_History_TestDrive.png' /><br>
 <figcaption>Figure 2: University of Arizona Test Drive Flight History showing Multiple Flights Paths from View History on the Google Maps. </figcaption></div>
 </figure>
+
+<br>
 
 
 <figure>
