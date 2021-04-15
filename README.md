@@ -25,7 +25,9 @@
 </figure>
 
 
-<br>
+<br><br><br>
+
+
 
 <figure>
 <div align="center">
@@ -33,7 +35,8 @@
 <figcaption>Figure 2: University of Arizona Test Drive Flight History showing Multiple Flights Paths from View History on the Google Maps. </figcaption></div>
 </figure>
 
-<br>
+<br><br><br>
+
 
 
 <figure>
